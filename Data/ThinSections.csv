@@ -1,0 +1,61 @@
+﻿ThinSectID;SampleID;SpecimenShort;SpecimenID;Bone;Locality;Sublocality;Format;MadeBy;Thickness;Genus
+TS002;TS002;MgD-I/177;ZPAL MgD-I/177;femur;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Thin (30-50 microm);Tarbosaurus
+TS004;TS004;MgD-I/177;ZPAL MgD-I/177;tibia;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Thin (30-50 microm);Tarbosaurus
+TS005;TS005;MgD-I/5;ZPAL MgD-I/005;tibia;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Thin (30-50 microm);Tarbosaurus
+TS007;TS007;MgD-I/177;ZPAL MgD-I/177;femur;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Thin (30-50 microm);Tarbosaurus
+TS008;TS008;MgD-I/177;ZPAL MgD-I/177;tibia;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Thin (30-50 microm);Tarbosaurus
+TS009;TS009;MgD-I/5;ZPAL MgD-I/005;tibia;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Thin (30-50 microm);Tarbosaurus
+TS010;TS010;MgD-I/5;ZPAL MgD-I/005;tibia;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Thin (30-50 microm);Tarbosaurus
+TS011;TS011;MgD-I/5;ZPAL MgD-I/005;tibia;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Tarbosaurus
+TS012;TS012;MgD-I/177;ZPAL MgD-I/177;tibia;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Tarbosaurus
+TS014;TS014;MgD-I/177;ZPAL MgD-I/177;femur;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Tarbosaurus
+TS015;TS015;MgD-I/5;ZPAL MgD-I/005;rib;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Tarbosaurus
+PR001;PR001;MgD-II/35;ZPAL MgD-I/035;frill;Toogreek;Toogreek;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Protoceratops
+PR002;PR002;MgD-II/35;ZPAL MgD-I/035;rib;Toogreek;Toogreek;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Protoceratops
+TS021-1;TS021;MgD-I/177;ZPAL MgD-I/177;femur;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Very thick (150+ microm);Tarbosaurus
+TS021-2;TS021;MgD-I/177;ZPAL MgD-I/177;femur;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Tarbosaurus
+TS023;TS023;MgD-I/4;ZPAL MgD-I/004;tooth;Nemegt;Nemegt;28 x 48 mm;Michał Surowski;Very thick (150+ microm);Tarbosaurus
+TS024-1;TS024;MgD-I/4;ZPAL MgD-I/004;rib;Nemegt;Nemegt;28 x 48 mm;Michał Surowski;Very thick (150+ microm);Tarbosaurus
+TS024-2;TS024;MgD-I/4;ZPAL MgD-I/004;rib;Nemegt;Nemegt;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Tarbosaurus
+TS026;TS026;MgD-I/29;ZPAL MgD-I/029;rib;Nemegt;Nemegt;28 x 48 mm;Michał Surowski;Very thick (150+ microm);Tarbosaurus
+TS027;TS027;MgD-I/3;ZPAL MgD-I/003;rib;Tsagan Khushuu;Tsagan Khushuu;28 x 48 mm;Michał Surowski;Very thick (150+ microm);Tarbosaurus
+TS031-1;TS031;MgD-I/5;ZPAL MgD-I/005;tibia;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Very thick (150+ microm);Tarbosaurus
+TS031-2;TS031;MgD-I/5;ZPAL MgD-I/005;tibia;Altan Uul;Altan Uul III;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Tarbosaurus
+TF006;TF006;MgD-I/176;ZPAL MgD-I/176;metatarsal;Nemegt;Nemegt;28 x 48 mm;Krzysztof Owocki;;Tarbosaurus
+TF022;TF022;MgD-I/4;ZPAL MgD-I/004;;Nemegt;Nemegt;26 x 76 mm;Krzysztof Owocki;;Tarbosaurus
+TF023;TF023;MgD-I/4;ZPAL MgD-I/004;;Nemegt;Nemegt;26 x 76 mm;Krzysztof Owocki;;Tarbosaurus
+TF024;TF024;MgD-I/4;ZPAL MgD-I/004;;Nemegt;Nemegt;26 x 76 mm;Krzysztof Owocki;;Tarbosaurus
+TF026;TF026;MgD-I/5;ZPAL MgD-I/005;;Altan Uul;Altan Uul III;26 x 76 mm;Krzysztof Owocki;;Tarbosaurus
+TF027;TF027;MgD-I/221;ZPAL MgD-I/221;femur;Nemegt;Nemegt;26 x 76 mm;Krzysztof Owocki;;Tarbosaurus
+TF030;TF030;MgD-I/59;ZPAL MgD-I/059;tarsal;Tsagan Khushu;Tsagan Khushu;26 x 76 mm;Krzysztof Owocki;;Tarbosaurus
+TF031;TF031;MgD-I/176;ZPAL MgD-I/176;;Nemegt;Nemegt;26 x 76 mm;Krzysztof Owocki;;Tarbosaurus
+TS022-1;TS022;MgD-I/38;ZPAL MgD-I/038;metatarsal;Altan Uul;Altan Uul I;28 x 48 mm;Michał Surowski;;Tarbosaurus
+TS022-2;TS022;MgD-I/38;ZPAL MgD-I/038;metatarsal;Altan Uul;Altan Uul I;28 x 48 mm;Michał Surowski;;Tarbosaurus
+SF003;SF003;MgD-I/168;ZPAL MgD-I/168;rib;Altan Uul;Altan Uul II;26 x 76 mm;Krzysztof Owocki;;Saurolophus
+SF002;SF002;MgD-I/158;ZPAL MgD-I/158;radius;Altan Uul;Altan Uul II;26 x 76 mm;Krzysztof Owocki;;Saurolophus
+PR006;PR006;MgD-II/408;ZPAL MgD-II/408;tibia;Bayan Dzak;Bayan Dzak;26 x 76 mm;Justyna Słowiak;;Protoceratops
+PR003;PR003;MgD-II/3;ZPAL MgD-II/003;humerus;Bayan Dzak;Bayan Dzak;26 x 76 mm;Justyna Słowiak;;Protoceratops
+HJ001;HJ001;MgD-III/19;ZPAL MgD-III/019;tibia;Bayan Shire;Bayan Shire;26 x 76 mm;Justyna Słowiak;;Hadrosauria indet.
+GJ001;GJ001;MgD-III/3;ZPAL MgD-III/003;tibia;Khongil Tsav;Khongil Tsav;26 x 76 mm;Justyna Słowiak;;Gobihadros
+TS001;TS001;MgD-I/175;ZPAL MgD-I/175;tibia;Nemegt;Nemegt;28 x 48 mm;Michał Surowski;Thin (30-50 microm);Tarbosaurus
+TS013;TS013;MgD-I/175;ZPAL MgD-I/175;tibia;Nemegt;Nemegt;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Tarbosaurus
+TS020-1;TS020;MgD-I/188;ZPAL MgD-I/188;tibia;Nemegt;Nemegt;28 x 48 mm;Michał Surowski;Very thick (150+ microm);Tarbosaurus
+TS020-2;TS020;MgD-I/188;ZPAL MgD-I/188;tibia;Nemegt;Nemegt;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Tarbosaurus
+TS025;TS025;MgD-I/175;ZPAL MgD-I/175;femur;Nemegt;Nemegt;28 x 48 mm;Michał Surowski;Very thick (150+ microm);Tarbosaurus
+TS028-1;TS028;MgD-I/109;ZPAL MgD-I/109;femur;Nemegt;Nemegt;28 x 48 mm;Michał Surowski;Very thick (150+ microm);Tarbosaurus
+TS028-2;TS028;MgD-I/109;ZPAL MgD-I/109;femur;Nemegt;Nemegt;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Tarbosaurus
+TF028;TF028;MgD-I/61;ZPAL MgD-I/061;vertebra;Nemegt;Nemegt;26 x 76 mm;Krzysztof Owocki;;Tarbosaurus
+SF001;SF001;MgD-I/157;ZPAL MgD-I/157;radius;Nemegt;Nemegt;26 x 76 mm;Krzysztof Owocki;;Saurolophus
+TS003;TS003;MgD-I/30;ZPAL MgD-I/030;rib;Tsagan Khushuu;Tsagan Khushuu;28 x 48 mm;Michał Surowski;Thin (30-50 microm);Tarbosaurus
+TS016;TS016;MgD-I/30;ZPAL MgD-I/030;tibia;Tsagan Khushuu;Tsagan Khushuu;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Tarbosaurus
+TS016-2;TS016;MgD-I/30;ZPAL MgD-I/030;tibia;Tsagan Khushuu;Tsagan Khushuu;28 x 48 mm;Michał Surowski;Very thick (150+ microm);Tarbosaurus
+TS017;TS017;MgD-I/30;ZPAL MgD-I/030;tibia;Tsagan Khushuu;Tsagan Khushuu;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Tarbosaurus
+TS018;TS018;MgD-I/30;ZPAL MgD-I/030;tibia;Tsagan Khushuu;Tsagan Khushuu;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Tarbosaurus
+TS019;TS019;MgD-I/30;ZPAL MgD-I/030;tibia;Tsagan Khushuu;Tsagan Khushuu;28 x 48 mm;Michał Surowski;Thick (ok 100 microm);Tarbosaurus
+TS029;TS029;MgD-I/4;ZPAL MgD-I/004;femur;Nemegt;Nemegt;28 x 48 mm;Michał Surowski;Very thick (150+ microm);Tarbosaurus
+TS030-1;TS030;MgD-I/30;ZPAL MgD-I/030;femur;Tsagan Khushuu;Tsagan Khushuu;28 x 48 mm;Michał Surowski;;Tarbosaurus
+TS030-2;TS030;MgD-I/30;ZPAL MgD-I/030;femur;Tsagan Khushuu;Tsagan Khushuu;28 x 48 mm;Michał Surowski;;Tarbosaurus
+TF020;TF020;MgD-I/30;ZPAL MgD-I/030;rib;Tsagan Khushuu;Tsagan Khushuu;26 x 76 mm;Krzysztof Owocki;;Tarbosaurus
+TF021;TF021;MgD-I/30;ZPAL MgD-I/030;rib;Tsagan Khushuu;Tsagan Khushuu;26 x 76 mm;Krzysztof Owocki;;Tarbosaurus
+TF025;TF025;MgD-I/30;ZPAL MgD-I/030;rib;Tsagan Khushuu;Tsagan Khushuu;26 x 76 mm;Krzysztof Owocki;;Tarbosaurus
+TF029;TF029;MgD-I/21;ZPAL MgD-I/021;rib;Tsagan Khushuu;Tsagan Khushuu;26 x 76 mm;Krzysztof Owocki;;Tarbosaurus
